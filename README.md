@@ -37,7 +37,7 @@ The project follows an analytical workflow that combines both unsupervised and s
 ## Team Information
 - Team: Group 21
 - Domain: Healthcare Analytics
-- Date: June 2025
+- Date: June 2026
 
 ## Software and Tools Required
 The following software and tools are recommended for this project:
